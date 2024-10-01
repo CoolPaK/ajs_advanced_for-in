@@ -1,6 +1,6 @@
 ## AJS_Advanced_For-in
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/b63ctgna47aehcv6?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-advanced-for-in)
 ---
 
 # Домашнее задание к лекции «Object, Reflection и Proxy»
